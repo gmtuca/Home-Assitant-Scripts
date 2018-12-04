@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#1-hour snapshots
+#30-min snapshots
 SNAPSHOT_LENGTH_MINUTES=30
 
 #delete snapshots older than 1-day
